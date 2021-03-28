@@ -1,2 +1,2 @@
 # n-chess
-# ai chess engine created using python 
+# ai chess game created using python 
